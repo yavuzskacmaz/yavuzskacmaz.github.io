@@ -26,6 +26,6 @@ latest_posts:
 
 Welcome to my website! I am a second-year PhD student in economics at UC Davis. My research focuses on international economics and macroeconomics, mainly through a historical perspective. Before starting my PhD, I completed my BA in Economics and History and MA in Economics at Bogazici University in Istanbul.
 
-## 📬 Contact
+# Contact
 
 Email: [ykacmaz@ucdavis.edu](mailto:ykacmaz@ucdavis.edu)  
