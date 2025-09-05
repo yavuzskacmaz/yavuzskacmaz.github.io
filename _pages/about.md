@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! My name is Yavuz Selim Kaçmaz. I am a second-year PhD student in economics at UC Davis.
+Welcome to my website! My name is Yavuz Selim Kacmaz. I am a second-year PhD student in economics at UC Davis.
 
 My research focuses on international economics and macroeconomics, mainly through a historical perspective. Before starting my PhD, I completed my BA in Economics and History and MA in Economics at Bogazici University in Istanbul.
 
