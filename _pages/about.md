@@ -2,7 +2,7 @@
 layout: about
 title: Homepage
 permalink: /
-subtitle: PhD student at UC Davis
+subtitle: Economics PhD student at UC Davis
 
 profile:
   align: right
@@ -24,9 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am a second-year PhD student in economics at UC Davis. My research focuses on international economics and macroeconomics, mainly through a historical perspective. Before starting my PhD, I completed my BA in Economics and History and MA in Economics at Bogazici University in Istanbul.
+Welcome to my website! My name is Yavuz Selim Kaçmaz. I am a second-year PhD student in economics at UC Davis.
 
-<p style="font-size: 1.1em; font-weight: bold; margin-top: 1em;">Contact</p>
+My research focuses on international economics and macroeconomics, mainly through a historical perspective. Before starting my PhD, I completed my BA in Economics and History and MA in Economics at Bogazici University in Istanbul.
+
+<p style="font-size: 1.2em; font-weight: bold; margin-top: 1em;">Contact</p>
 
 Email: <a href="mailto:ykacmaz@ucdavis.edu">ykacmaz@ucdavis.edu</a>
 
