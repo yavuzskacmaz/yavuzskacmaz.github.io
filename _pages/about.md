@@ -28,7 +28,7 @@ Welcome to my website! My name is Yavuz Selim Kacmaz. I am a second-year PhD stu
 
 My research focuses on international economics and macroeconomics, mainly through a historical perspective. Before starting my PhD, I completed my BA in Economics and History and MA in Economics at Bogazici University in Istanbul.
 
-<h3 style="font-size: 1.2em; font-weight: bold; margin-top: 1em;">Contact</p>
+<h3 style="font-size: 1.2em; font-weight: bold; margin-top: 1em;">Contact</h3>
 
 Email: <a href="mailto:ykacmaz@ucdavis.edu">ykacmaz@ucdavis.edu</a>
 
