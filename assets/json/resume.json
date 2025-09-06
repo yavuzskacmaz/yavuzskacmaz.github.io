@@ -52,9 +52,7 @@
       "area": "Economics",
       "studyType": "PhD",
       "startDate": "2024",
-      "endDate": "",
-      "score": "",
-      "courses": [""]
+      "endDate": ""
     },
     {
       "institution": "Bogazici University",
@@ -63,9 +61,7 @@
       "area": "Economics",
       "studyType": "MA",
       "startDate": "2022",
-      "endDate": "2024",
-      "score": "",
-      "courses": [""]
+      "endDate": "2024"
     },
     {
       "institution": "Bogazici University",
@@ -74,9 +70,7 @@
       "area": "Economics and History",
       "studyType": "BA",
       "startDate": "2016",
-      "endDate": "2022",
-      "score": "",
-      "courses": [""]
+      "endDate": "2022"
     }
   ],
   "awards": [
