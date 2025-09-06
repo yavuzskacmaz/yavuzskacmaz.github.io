@@ -4,7 +4,6 @@
     "label": "Economics PhD student",
     "image": "",
     "email": "ykacmaz@ucdavis.edu",
-    "phone": "(912) 123-4567",
     "url": "https://yavuzskacmaz.github.io",
     "summary": "",
     "location": {
@@ -63,7 +62,7 @@
       "url": "https://econ.bogazici.edu.tr",
       "area": "Economics",
       "studyType": "MA",
-      "startDate": "",
+      "startDate": "2022",
       "endDate": "2024",
       "score": "",
       "courses": [""]
@@ -74,7 +73,7 @@
       "url": "https://econ.bogazici.edu.tr",
       "area": "Economics and History",
       "studyType": "BA",
-      "startDate": "",
+      "startDate": "2016",
       "endDate": "2022",
       "score": "",
       "courses": [""]
