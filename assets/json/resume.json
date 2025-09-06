@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yavuz Selim Kacmaz",
+    "label": "Economics PhD student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ykacmaz@ucdavis.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://yavuzskacmaz.github.io",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -47,15 +47,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Davis",
+      "location": "Davis, CA",
+      "url": "https://economics.ucdavis.edu",
+      "area": "Economics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Bogazici University",
+      "location": "Istanbul, Turkey",
+      "url": "https://econ.bogazici.edu.tr",
+      "area": "Economics",
+      "studyType": "MA",
+      "startDate": "",
+      "endDate": "2024",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Bogazici University",
+      "location": "Istanbul, Turkey",
+      "url": "https://econ.bogazici.edu.tr",
+      "area": "Economics and History",
+      "studyType": "BA",
+      "startDate": "",
+      "endDate": "2022",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -151,7 +173,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Turkish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,15 +185,13 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Economics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "International Economics",
+        "Macroeconomics",
+        "Economic History",
+        "Applied Microeconomics"
       ]
     }
   ],
