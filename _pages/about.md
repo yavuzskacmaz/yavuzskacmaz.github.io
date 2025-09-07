@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Homepage
+title: Home
 permalink: /
 subtitle: Economics PhD student at UC Davis
 
