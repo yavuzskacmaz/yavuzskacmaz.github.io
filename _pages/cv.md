@@ -4,7 +4,7 @@ permalink: /Resume/
 title: Resume
 nav: true
 nav_order: 2
-cv_pdf: YavuzSKacmaz_CV.pdf # you can also use external links here
+cv_pdf: YavuzSKacmaz_CV_v250909.pdf # you can also use external links here
 description: #
 toc: false
 ---
