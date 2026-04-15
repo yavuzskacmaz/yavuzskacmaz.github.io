@@ -63,7 +63,7 @@
         {%- unless author_is_self -%}{%- assign coauthor_count = coauthor_count | plus: 1 -%}{%- endunless -%}
       {%- endfor -%}
       {%- if coauthor_count > 0 -%}
-        with
+        {%- assign coauthor_str = "" -%}
         {%- assign rendered = 0 -%}
         {%- for author in entry.author_array -%}
           {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
@@ -76,9 +76,6 @@
           {%- endif -%}
           {%- unless author_is_self -%}
             {%- assign rendered = rendered | plus: 1 -%}
-            {%- if rendered > 1 -%}
-              {%- if coauthor_count == 2 %} and {%- elsif rendered < coauthor_count %}, {%- else %}, and {%- endif -%}
-            {%- endif -%}
             {%- assign coauthor_url = null -%}
             {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
             {%- if site.data.coauthors[clean_last_name] -%}
@@ -90,12 +87,22 @@
               {%- endfor -%}
             {%- endif -%}
             {%- if coauthor_url -%}
-              <a href="{{ coauthor_url }}">{{- author.first }} {{ author_last_html -}}</a>
+              {%- capture cur_author %}<a href="{{ coauthor_url }}">{{ author.first }} {{ author_last_html }}</a>{%- endcapture -%}
             {%- else -%}
-              {{- author.first }} {{ author_last_html -}}
+              {%- capture cur_author %}{{ author.first }} {{ author_last_html }}{%- endcapture -%}
+            {%- endif -%}
+            {%- if rendered == 1 -%}
+              {%- assign coauthor_str = cur_author -%}
+            {%- elsif coauthor_count == 2 -%}
+              {%- assign coauthor_str = coauthor_str | append: " and " | append: cur_author -%}
+            {%- elsif rendered < coauthor_count -%}
+              {%- assign coauthor_str = coauthor_str | append: ", " | append: cur_author -%}
+            {%- else -%}
+              {%- assign coauthor_str = coauthor_str | append: ", and " | append: cur_author -%}
             {%- endif -%}
           {%- endunless -%}
         {%- endfor -%}
+        with {{ coauthor_str }}
       {%- endif -%}
       {% if entry.annotation %}
         <i
