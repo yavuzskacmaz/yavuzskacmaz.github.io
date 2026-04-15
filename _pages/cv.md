@@ -8,7 +8,7 @@ nav_order: 2
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=/assets/pdf/YavuzKacmaz_CV_260414.pdf">
-    <script>window.location.replace("/assets/pdf/YavuzKacmaz_CV_260414.pdf");</script>
+    <meta http-equiv="refresh" content="0; url=/assets/pdf/YavuzKacmaz_CV_260415.pdf">
+    <script>window.location.replace("/assets/pdf/YavuzKacmaz_CV_260415.pdf");</script>
   </head>
 </html>
