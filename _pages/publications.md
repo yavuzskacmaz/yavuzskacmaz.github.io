@@ -15,6 +15,10 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @article %}
+
+<h2 class="bibliography">Working Papers</h2>
+
+{% bibliography --query @techreport --group_by none %}
 
 </div>
