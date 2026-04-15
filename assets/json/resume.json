@@ -36,15 +36,15 @@
       "endDate": "2022"
     }
   ],
-  "interests": [
-    {
-      "name": "Economics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "International Economics",
-        "Spatial Economics",
-        "Economic History"
-      ]
-    }
-  ]
+"interests": [
+  {
+    "name": "International Economics"
+  },
+  {
+    "name": "Spatial Economics"
+  },
+  {
+    "name": "Economic History"
+  }
+]
 }
