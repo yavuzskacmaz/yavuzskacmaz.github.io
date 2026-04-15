@@ -6,7 +6,7 @@
     "image": "",
     "email": "ykacmaz@ucdavis.edu",
     "summary": ""
-    },
+  },
   "education": [
     {
       "institution": "University of California, Davis",
@@ -42,7 +42,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "International Economics",
-        “Spatial Economics,
+        "Spatial Economics",
         "Economic History"
       ]
     }
