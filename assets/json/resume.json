@@ -1,1 +1,35 @@
-
+{
+  "basics": {
+    "name": "Yavuz Selim Kacmaz",
+    "institution": "UC Davis",
+    "role": "Economics PhD student",
+    "email": "ykacmaz@ucdavis.edu"
+  },
+  "education": [
+    {
+      "institution": "University of California, Davis",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2024"
+    },
+    {
+      "institution": "Bogazici University",
+      "area": "Economics",
+      "studyType": "MA",
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "institution": "Bogazici University",
+      "area": "Economics and History",
+      "studyType": "BA",
+      "startDate": "2016",
+      "endDate": "2022"
+    }
+  ],
+  "interests": [
+    "International Economics",
+    "Spatial Economics",
+    "Economic History"
+  ]
+}
