@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website! I am a second-year PhD student in economics at UC Davis. Before starting my PhD, I completed my BA and MA in economics at Bogazici University in Istanbul. My research interests lie at the intersection of international economics and macroeconomics, which I study using both historical and contemporary settings.
+Welcome to my website! I am a second-year PhD student in economics at UC Davis. Before starting my PhD, I completed my BA and MA in economics at Bogazici University in Istanbul.
+
+My research interests center on international economics and macroeconomics, which I examine through both historical and contemporary lenses.
 
 <h3 style="font-size: 1.2em; font-weight: bold; margin-top: 1em;">Contact</h3>
 
